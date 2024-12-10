@@ -1,11 +1,4 @@
-Casio Calculator Simulation in Python
 
-Mô tả:
-Dự án này là mô phỏng một chiếc máy tính Casio cơ bản, được viết hoàn toàn bằng Python. Dự án cho phép người dùng thực hiện các phép toán như cộng, trừ, nhân, chia và các chức năng nâng cao như tính lũy thừa, căn bậc hai.
-
-Nội dung README:
-markdown
-Sao chép mã
 # Casio Calculator Simulation in Python
 
 ## 🚀 Mô tả
