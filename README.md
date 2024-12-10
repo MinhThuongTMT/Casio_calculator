@@ -26,18 +26,15 @@ Chạy ứng dụng:
 bash
 Sao chép mã
 python calculator.py
+
 🧮 Cách sử dụng
 Giao diện Terminal: Nhập các phép toán như 2 + 3 hoặc sqrt(16) trực tiếp từ terminal.
 Giao diện GUI (nếu có): Sử dụng các nút trên màn hình để thực hiện phép toán.
+
 📖 Tính năng
 Giao diện dễ sử dụng.
 Hỗ trợ đa nền tảng (Windows, macOS, Linux).
 Dễ dàng mở rộng chức năng.
-🤝 Đóng góp
-Chúng tôi chào đón mọi ý kiến đóng góp! Hãy gửi Pull Request hoặc báo lỗi qua Issues.
-
-📜 License
-Dự án được phát hành theo giấy phép MIT. Xem thêm tại LICENSE.
 
 💬 Liên hệ
 Nếu bạn có câu hỏi, vui lòng liên hệ qua email: tranminhthuong08082003@gmail.com.
